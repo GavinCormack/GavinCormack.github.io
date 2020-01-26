@@ -1,0 +1,10 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 1px solid #000000;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
